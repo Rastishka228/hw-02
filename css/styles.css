@@ -135,6 +135,9 @@ body {
 .hero-button:focus {
   background-color: var(--bg-btn-hover);
 }
+.item {
+  background-color: var(--text-button-white-color);
+}
 
 /* Features section */
 
